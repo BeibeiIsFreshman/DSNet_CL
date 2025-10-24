@@ -15,3 +15,6 @@ The results of our comparison method are as follows:
 # Weight
 Please criticize and correct me. I will reply to your message as soon as possible.
 
+# environment
+Refer to requirements.txt for the environment configuration file.
+
