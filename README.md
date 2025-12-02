@@ -14,7 +14,6 @@ The results of our comparison method are as follows:
 
 # Weight
 The backbone network adopts PVTv2. Please visit its official GitHub repository to download the network code and pre-trained weights.
-Please criticize and correct me. I will reply to your message as soon as possible.
 
 # environment
 Refer to requirements.txt for the environment configuration file.
