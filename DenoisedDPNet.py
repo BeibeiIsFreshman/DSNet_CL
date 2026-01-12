@@ -309,7 +309,7 @@ class EnhancementModule(nn.Module):
         else:
             aggregate_bias = None
 
-        # Modify this line Cha
+        # Choose between residual and attention methods based on your task, and use whichever works better.
         # output = F.conv2d(x + attention, weight=aggregate_weight, bias=aggregate_bias, stride=self.stride, padding=self.padding,
         #                   groups=1)
 
