@@ -12,8 +12,9 @@ The diagram of our model is as follows:
 The results of our comparison method are as follows:
 <img width="847" height="669" alt="image" src="https://github.com/user-attachments/assets/fffb92ca-d461-4230-9e74-39064a89ce8d" />
 
-# Weight
-The backbone network adopts PVTv2 and MixTransformer. Please visit its official GitHub repository to download the network code and pre-trained weights.
+# Weight and Images
+通过网盘分享的文件：D_S_Net
+链接: https://pan.baidu.com/s/1QmWHXniNUb-zg1mbjexeZA 提取码: tz2c
 
 # environment
 Refer to requirements.txt for the environment configuration file.
